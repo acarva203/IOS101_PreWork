@@ -16,7 +16,18 @@ The following **required** functionality is completed:
 
 
 ## App Brainstorming (Step 4)
+# Instagram
+- Stream/algorithm of curated content
+- Ability to send content to friends
+- Sharing daily updates with friends
+# Discord 
+- easy to find messages
+- messages organized by channel and server
+# Slack
+- similar message structure to Discord --> makes them easy to find
+- swipe feature to mark read
 
+I would like to build an app that 
 ## Notes
 
 Describe any challenges encountered while building the app.
